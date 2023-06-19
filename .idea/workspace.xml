@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a7cc7a4f-1a1a-4bcc-a6ce-925a2ac903ae" name="更改" comment="a test of if else">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/git_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="a test of if else" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/git_practice_py$git_practice.coverage" NAME="git_practice 覆盖结果" MODIFIED="1687144514045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/git_practice_py$git_practice.coverage" NAME="git_practice 覆盖结果" MODIFIED="1687157602417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
